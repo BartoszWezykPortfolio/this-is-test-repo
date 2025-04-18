@@ -42,3 +42,5 @@ def rotate_list(lst, k):
     return new_list
 
 print(rotate_list([1, 2, 3, 4, 5], 2))
+
+print('Kolejny etap')
